@@ -1,0 +1,7 @@
+package domain
+
+const (
+	STATUS_PENDING  = "PENDING"
+	STATUS_APPROVED = "APPROVED"
+	STATUS_PAID     = "PAID"
+)
